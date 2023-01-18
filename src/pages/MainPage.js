@@ -21,7 +21,7 @@ export default function MainPage() {
 
     const getCart = () => {
         const cartItems = JSON.parse(localStorage.getItem("cart"));
-        if (cartItems.length > 0) {
+        if (cartItems?.length > 0) {
             setShowCart(true);
             return setCart(cartItems);
         }
