@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Cratera Holder no planeta Marte",
+        "description": "Muito requisitada por viajantes a procura de terras calmas e movimentadas.",
+        "price": 6000,
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia23952.jpg",
+        "imageAlt": "Cratera Marte"
+    },
+    {
+        "id": 2,
+        "name": "Lua de Orion",
+        "description": "Ideal para os aventureiros em busca de um lugar inóspito e fora dos guias tradicionais." ,
+        "price": 4650,
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/art001e000343_orig.jpg",
+        "imageAlt": "Orion"
+    },
+    {
+        "id": 3,
+        "name": "Cratera Farm em Vênus",
+        "description": "Para quem curte uma viagem mais curta, com direito a piquinique nas planícies próximas a cratera.",
+        "price": 3000,
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/f_craterfarm.jpg",
+        "imageAlt": "Vênus cratera"
+    },
+    {
+        "id": 4,
+        "name": "A Lua da Terra",
+        "description": "A lua mais famosa de todos os tempos, mas tomem cuidado com a poeira.",
+        "price": 1500,
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/52546705066_0e1e95222c_o.jpg",
+        "imageAlt": "Lua Terra"
+    },
+    {
+        "id": 5,
+        "name": "O planeta RCK6548",
+        "description": "Uma viagem para os apaixonados, com uma atmosfera inconstante e amena, incluí passeios a suas luas.",
+        "price": 1500,
+        "image": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/iss044e045215.jpg",
+        "imageAlt": "Lua Terra"
+    }
+]
